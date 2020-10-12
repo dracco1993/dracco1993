@@ -22,5 +22,5 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracco1993&layout=compact" alt="dracco1993" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars" alt="dracco1993" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars&line_height=24" alt="dracco1993" />
 </p>
