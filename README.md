@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracco1993&layout=compact" alt="dracco1993" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars" alt="dracco1993" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars" alt="dracco1993" /></p>
