@@ -2,7 +2,7 @@
 <h3 align="center">A fullstack developer from Indiana</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dracco1993&label=Profile%20views&color=0e75b6&style=flat" alt="dracco1993" /> </p>
 
-- ☀️ By day, I’m a Senior Software Engineer at [Springbuk](https://github.com/springbuk)
+- ☀️ By day, I’m a Principal Software Engineer at [Springbuk](https://github.com/springbuk)
 
 - 🌙 By night, I'm a Mentor at [Red Alert Robotics](https://github.com/RAR1741)
 
