@@ -8,6 +8,30 @@
 
 🤖 I also contribute to [The Blue Alliance](https://github.com/the-blue-alliance)
 
+---
+
+### 🦾 FRC Mentorship — [Team 1741 | Red Alert](https://github.com/RAR1741)
+
+I mentor [FRC Team 1741 "Red Alert"](https://www.thebluealliance.com/team/1741) out of Center Grove High School in Greenwood, Indiana (rookie year: 2006).
+
+🏆 **2026 Indiana District Championship Winners** — heading to the [FIRST Championship](https://www.thebluealliance.com/event/2026cmptx) in Houston!
+
+| Season | Event | Result |
+|--------|-------|--------|
+| 2026 | FIRST Indiana State Championship | 🥇 **Champion** (Alliance 1, Pick 2) |
+| 2026 | FIN District Lafayette Event | Creativity Award • Round 2 Playoffs |
+| 2026 | FIN District Columbus Event | Gracious Professionalism Award • Round 2 Playoffs |
+
+> Robot "Phantom" — 24-22-0 in official play in 2026 · District Rank #13 in Indiana
+
+---
+
+### 🔵 Open Source — [The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance)
+
+I'm a contributor to [The Blue Alliance](https://www.thebluealliance.com), the premier open-source FRC data platform used by teams, scouts, and fans worldwide. TBA tracks every match, team, and award across all FRC competitions and exposes it all via a [public API](https://www.thebluealliance.com/apidocs).
+
+---
+
 <h3 align="left">Other places you can find me:</h3>
 
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dracco1993)&nbsp;&nbsp;[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jordan-miller-4a70b0148)&nbsp;&nbsp;[![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/884296/dracco1993)
