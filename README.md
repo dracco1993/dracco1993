@@ -12,9 +12,7 @@
 <h3 align="left">Other places you can find me:</h3>
 <a href="https://twitter.com/dracco1993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dracco1993" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jordan-miller-4a70b0148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jordan-miller-4a70b0148" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dracco1993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dracco1993" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dracco1993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dracco1993" height="30" width="40" /></a>
-<a href="https://codepen.io/dracco1993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dracco1993" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/884296/dracco1993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dracco1993" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
