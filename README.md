@@ -9,14 +9,14 @@
 🤖 I also contribute to [The Blue Alliance](https://github.com/the-blue-alliance)
 
 <h3 align="left">Other places you can find me:</h3>
-<table><tr>
+<table border="0"><tr>
 <td><a href="https://twitter.com/dracco1993" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
 <td><a href="https://linkedin.com/in/jordan-miller-4a70b0148" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></td>
 <td><a href="https://stackoverflow.com/users/884296/dracco1993" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="40" /></a></td>
 </tr></table>
 
 <h3 align="left">Languages and Tools:</h3>
-<table><tr>
+<table border="0"><tr>
 <td><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
 <td><a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a></td>
 <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
