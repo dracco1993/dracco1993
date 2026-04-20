@@ -9,29 +9,27 @@
 🤖 I also contribute to [The Blue Alliance](https://github.com/the-blue-alliance)
 
 <h3 align="left">Other places you can find me:</h3>
-<table border="0" cellspacing="0" cellpadding="8" frame="void" rules="none"><tr>
-<td><a href="https://twitter.com/dracco1993" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" width="40" height="40" /></a></td>
-<td><a href="https://linkedin.com/in/jordan-miller-4a70b0148" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40" /></a></td>
-<td><a href="https://stackoverflow.com/users/884296/dracco1993" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" width="40" height="40" /></a></td>
-</tr></table>
+
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dracco1993)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jordan-miller-4a70b0148)
+[![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/884296/dracco1993)
 
 <h3 align="left">Languages and Tools:</h3>
-<table border="0" cellspacing="0" cellpadding="8" frame="void" rules="none"><tr>
-<td><a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a></td>
-<td><a href="https://d3js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/></a></td>
-<td><a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a></td>
-<td><a href="https://www.elastic.co" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/></a></td>
-<td><a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a></td>
-<td><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a></td>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a></td>
-<td><a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a></td>
-<td><a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a></td>
-<td><a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a></td>
-<td><a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a></td>
-<td><a href="https://rubyonrails.org" target="_blank"><img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/></a></td>
-<td><a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a></td>
-<td><a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/></a></td>
-</tr></table>
+
+[![aws](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![d3](https://skillicons.dev/icons?i=d3)](https://d3js.org/)
+[![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co)
+[![firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![javascript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![opencv](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
+[![postgresql](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+[![rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org)
+[![react](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/en/)
 
 <p align="center">
   <a>
