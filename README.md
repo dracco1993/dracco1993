@@ -19,16 +19,16 @@
 <p align="center">
   <a>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dracco1993&layout=compact&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dracco1993&layout=compact">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracco1993&layout=compact" alt="dracco1993" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dracco1993&layout=compact&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dracco1993&layout=compact">
+      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dracco1993&layout=compact" alt="dracco1993" />
     </picture>
   </a>
   <a>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars&line_height=24&custom_title=GitHub%20Stats&card_width=350&theme=github_dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars&line_height=24&custom_title=GitHub%20Stats&card_width=350">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars&line_height=24&custom_title=GitHub%20Stats&card_width=350" alt="dracco1993's GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars&line_height=24&custom_title=GitHub%20Stats&card_width=350&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars&line_height=24&custom_title=GitHub%20Stats&card_width=350">
+      <img align="center" src="https://github-stats-extended.vercel.app/api?username=dracco1993&show_icons=true&count_private=true&hide=stars&line_height=24&custom_title=GitHub%20Stats&card_width=350" alt="dracco1993's GitHub Stats" />
     </picture>
   </a>
 </p>
