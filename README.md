@@ -9,10 +9,10 @@
 
 ## What I work on
 
-- **[Red Alert Robotics](https://github.com/RAR1741)** — Mentor since 2017. Robot code every season ([RA26](https://github.com/RAR1741/RA26_RobotCode) and back to [RA18](https://github.com/RAR1741/RA18_RobotCode)), plus [Team Hub](https://github.com/RAR1741/hub), the team-operations app that runs attendance, roster, and the shop floor. Java, JavaScript. 170+ merged PRs.
-- **[The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance)** — Contributor since 2017 to the FIRST Robotics Competition data site and its [iOS app](https://github.com/the-blue-alliance/the-blue-alliance-ios). Python, Swift. 60+ merged PRs.
-- **[Bot_Man](https://github.com/GreaterGamersLounge/bot_man)** — Discord bot for Greater Gamers Lounge: slash commands, reaction roles, temp voice channels. TypeScript, discord.js. 50+ merged PRs.
-- **[Cranberry Alarm](https://github.com/CranberryAlarm)** — "Robot in 3 Days" builds ([CA25](https://github.com/CranberryAlarm/CA25_RobotCode), [CA26](https://github.com/CranberryAlarm/CA26_RobotCode)), a full robot written in the first 72 hours after the FRC game reveal. Java.
+- **[Red Alert Robotics](https://github.com/RAR1741)** — Mentor since 2017. Robot code every season ([RA26](https://github.com/RAR1741/RA26_RobotCode) and back to [RA18](https://github.com/RAR1741/RA18_RobotCode)), plus [Team Hub](https://github.com/RAR1741/hub), the team-operations app that runs attendance, roster, and the shop floor. Java, JavaScript. [<!--prs:RAR1741-->183<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ARAR1741&type=pullrequests).
+- **[The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance)** — Contributor since 2017 to the FIRST Robotics Competition data site and its [iOS app](https://github.com/the-blue-alliance/the-blue-alliance-ios). Python, Swift. [<!--prs:the-blue-alliance-->66<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3Athe-blue-alliance&type=pullrequests).
+- **[Bot_Man](https://github.com/GreaterGamersLounge/bot_man)** — Discord bot for Greater Gamers Lounge: slash commands, reaction roles, temp voice channels. TypeScript, discord.js. [<!--prs:GreaterGamersLounge-->55<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3AGreaterGamersLounge&type=pullrequests).
+- **[Cranberry Alarm](https://github.com/CranberryAlarm)** — "Robot in 3 Days" builds ([CA25](https://github.com/CranberryAlarm/CA25_RobotCode), [CA26](https://github.com/CranberryAlarm/CA26_RobotCode)), a full robot written in the first 72 hours after the FRC game reveal. Java. [<!--prs:CranberryAlarm-->18<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ACranberryAlarm&type=pullrequests).
 - **[FRCStats](https://github.com/dracco1993/FRCStats)** / **[FTCStats](https://github.com/dracco1993/FTCStats)** — Match lists for every district at champs. JavaScript. Live at [frc.jmiller.dev](https://frc.jmiller.dev).
 
 ## Recently merged
@@ -20,7 +20,7 @@
 Latest merged PR in each org repo I contribute to. Updated nightly.
 
 <!-- recent_prs start -->
-- [RAR1741/hub](https://github.com/RAR1741/hub/pull/280) — Absent Members review page (#120) (2026-09-10)
+- [RAR1741/hub](https://github.com/RAR1741/hub/pull/281) — Add optional event & meeting reminder notifications (2026-09-10)
 - [RAR1741/RA26_RobotCode](https://github.com/RAR1741/RA26_RobotCode/pull/29) — Worlds (2026-05-07)
 - [the-blue-alliance/the-blue-alliance](https://github.com/the-blue-alliance/the-blue-alliance/pull/9792) — [PWA] Add district worlds tracking (2026-04-27)
 - [Indiana-Scouting-Alliance/isa2026](https://github.com/Indiana-Scouting-Alliance/isa2026/pull/107) — Add pit scouting (2026-03-03)
