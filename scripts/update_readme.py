@@ -13,7 +13,7 @@ def fetch(url):
         return json.load(r)
 
 def recent_prs():
-    q = f"author:{USER}+type:pr+is:merged+-repo:{USER}/{USER}"
+    q = f"author:{USER}+type:pr+is:merged+-user:{USER}"
     seen, rows = set(), []
     for page in range(1, 6):
         items = fetch(f"https://api.github.com/search/issues?q={q}&sort=updated&order=desc&per_page=100&page={page}")["items"]
@@ -22,12 +22,12 @@ def recent_prs():
             if repo in seen:
                 continue
             seen.add(repo)
-            rows.append(f"- [{repo}]({it['html_url']}) — {it['title']} ({it['closed_at'][:10]})")
+            rows.append((it["closed_at"][:10], f"- [{repo}]({it['html_url']}) — {it['title']}"))
             if len(rows) == LIMIT:
-                return rows
-        if len(items) < 100:
+                break
+        if len(rows) == LIMIT or len(items) < 100:
             break
-    return rows
+    return [f"{line} ({date})" for date, line in sorted(rows, reverse=True)]
 
 def render(readme, rows):
     block = f"{START}\n" + "\n".join(rows) + f"\n{END}"
