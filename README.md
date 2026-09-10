@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A fullstack developer from Indiana</h3>
 
-☀️ By day, I'm a Principal Software Engineer at [Merative](https://github.com/merative)
+☀️ By day, I'm a Lead Developer at [Merative](https://github.com/merative)
 
 🌙 By night, I mentor the software team at [Red Alert Robotics](https://github.com/RAR1741) (FRC 1741). Since 2017 I've helped high schoolers ship a new Java robot every season, and built the tooling around the team along the way.
 
