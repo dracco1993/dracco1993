@@ -1,6 +1,6 @@
 Image generation:
-- https://github.com/anuraghazra/github-readme-stats
-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+- https://github.com/Ashutosh00710/github-readme-activity-graph
+- https://github.com/DenverCoder1/github-readme-streak-stats
 
 Icons:
 - https://skillicons.dev
