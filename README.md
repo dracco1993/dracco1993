@@ -5,8 +5,6 @@
 
 🌙 By night, I mentor the software team at [Red Alert Robotics](https://github.com/RAR1741) (FRC 1741). Since 2017 I've helped high schoolers ship a new Java robot every season, and built the tooling around the team along the way.
 
-🌐 [jmiller.dev](https://jmiller.dev) (blog coming someday)
-
 ## What I work on
 
 - **[Red Alert Robotics](https://github.com/RAR1741)** — Mentor since 2017. Robot code every season ([RA26](https://github.com/RAR1741/RA26_RobotCode) and back to [RA18](https://github.com/RAR1741/RA18_RobotCode)), plus [Team Hub](https://github.com/RAR1741/hub), the team-operations app that runs attendance, roster, and the shop floor. Java, JavaScript. [<!--prs:RAR1741-->183<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ARAR1741&type=pullrequests).
