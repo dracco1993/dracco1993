@@ -31,8 +31,13 @@ def recent_prs():
             break
     return [f"{line} ({date})" for date, line in sorted(rows, reverse=True)]
 
-def pr_count(org):
-    return str(fetch(f"https://api.github.com/search/issues?q=author:{USER}+type:pr+is:merged+org:{org}&per_page=1")["total_count"])
+def scope(name, exclude):
+    """Org qualifier for a real org, or exclusion of every real org for the '__other' bucket."""
+    return "".join(f"+-org:{o}" for o in exclude) if name.startswith("__") else f"+org:{name}"
+
+def pr_count(name, exclude):
+    q = f"author:{USER}+type:pr+is:merged{scope(name, exclude)}"
+    return str(fetch(f"https://api.github.com/search/issues?q={q}&per_page=1")["total_count"])
 
 def sig2(n):
     """Floor to two significant figures, so a '+' claim is always true."""
@@ -42,8 +47,8 @@ def sig2(n):
     f = 10 ** (d - 2)
     return (n // f) * f
 
-def commit_count(org):
-    n = fetch(f"https://api.github.com/search/commits?q=author:{USER}+org:{org}&per_page=1")["total_count"]
+def commit_count(name, exclude):
+    n = fetch(f"https://api.github.com/search/commits?q=author:{USER}{scope(name, exclude)}&per_page=1")["total_count"]
     return f"{sig2(n)}+"
 
 def render(readme, rows, prs, commits):
@@ -60,6 +65,8 @@ def test():
     assert render("<!--prs:o-->1<!--/prs-->", [], {"o": "42"}, {}) == "<!--prs:o-->42<!--/prs-->"
     assert render("<!--commits:o-->9+<!--/commits-->", [], {}, {"o": "2000+"}) == "<!--commits:o-->2000+<!--/commits-->"
     assert [sig2(n) for n in (2033, 402, 152, 91, 7)] == [2000, 400, 150, 91, 7]
+    assert scope("RAR1741", ["RAR1741", "TBA"]) == "+org:RAR1741"
+    assert scope("__other", ["RAR1741", "TBA"]) == "+-org:RAR1741+-org:TBA"
 
 if __name__ == "__main__":
     test()
@@ -67,8 +74,9 @@ if __name__ == "__main__":
         readme = f.read()
     orgs = {m[1] for m in PRS.finditer(readme)}
     corgs = {m[1] for m in COMMITS.finditer(readme)}
+    real = sorted(o for o in orgs | corgs if not o.startswith("__"))
     out = render(readme, recent_prs(),
-                 {o: pr_count(o) for o in orgs},
-                 {o: commit_count(o) for o in corgs})
+                 {o: pr_count(o, real) for o in orgs},
+                 {o: commit_count(o, real) for o in corgs})
     with open("README.md", "w", encoding="utf-8", newline="\n") as f:
         f.write(out)

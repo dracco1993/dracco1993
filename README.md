@@ -12,6 +12,7 @@
 - **[Cranberry Alarm (CA)](https://github.com/CranberryAlarm)** — "Robot in 3 Days" (latest: [CA26](https://github.com/CranberryAlarm/CA26_RobotCode)), a full robot built in the first 72 hours after the FRC game reveal. Java. [<!--prs:CranberryAlarm-->18<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ACranberryAlarm&type=pullrequests), <!--commits:CranberryAlarm-->150+<!--/commits--> commits.
 - **[Bot_Man](https://github.com/GreaterGamersLounge/bot_man)** — Discord bot for Greater Gamers Lounge: slash commands, reaction roles, temp voice channels. TypeScript, discord.js. [<!--prs:GreaterGamersLounge-->55<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3AGreaterGamersLounge&type=pullrequests), <!--commits:GreaterGamersLounge-->400+<!--/commits--> commits.
 - **[FRCStats](https://github.com/dracco1993/FRCStats)** / **[FTCStats](https://github.com/dracco1993/FTCStats)** — Match lists for every district at champs. JavaScript. 2019-2026. Finally [added to TBA in 2026](https://github.com/the-blue-alliance/the-blue-alliance/pull/9792).
+- **Elsewhere** — Odds and ends across my own repos, other orgs, and other people's projects (FIRSTMap, redis, and more). [<!--prs:__other-->54<!--/prs--> merged PRs](https://github.com/search?q=author%3Adracco1993+type%3Apr+is%3Amerged+-org%3ARAR1741+-org%3Athe-blue-alliance+-org%3AGreaterGamersLounge+-org%3ACranberryAlarm&type=pullrequests), <!--commits:__other-->560+<!--/commits--> commits.
 
 ## Recently merged
 
