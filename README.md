@@ -7,10 +7,10 @@
 
 ## What I work on
 
-- **[Red Alert Robotics](https://github.com/RAR1741)** — Mentor since 2011. Robot code every season ([RA26](https://github.com/RAR1741/RA26_RobotCode) and back to [RA18](https://github.com/RAR1741/RA18_RobotCode)), plus [Team Hub](https://github.com/RAR1741/hub), the team-operations app that runs attendance, roster, and the shop floor. Java, JavaScript. [<!--prs:RAR1741-->183<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ARAR1741&type=pullrequests), [<!--commits:RAR1741-->2000+<!--/commits--> commits](https://github.com/search?q=author%3Adracco1993+org%3ARAR1741&type=commits).
-- **[The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance)** — Contributor since 2017 to the FIRST Robotics Competition data site and its [iOS app](https://github.com/the-blue-alliance/the-blue-alliance-ios). Python, Swift. [<!--prs:the-blue-alliance-->66<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3Athe-blue-alliance&type=pullrequests), [<!--commits:the-blue-alliance-->91+<!--/commits--> commits](https://github.com/search?q=author%3Adracco1993+org%3Athe-blue-alliance&type=commits).
-- **[Bot_Man](https://github.com/GreaterGamersLounge/bot_man)** — Discord bot for Greater Gamers Lounge: slash commands, reaction roles, temp voice channels. TypeScript, discord.js. [<!--prs:GreaterGamersLounge-->55<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3AGreaterGamersLounge&type=pullrequests), [<!--commits:GreaterGamersLounge-->400+<!--/commits--> commits](https://github.com/search?q=author%3Adracco1993+org%3AGreaterGamersLounge&type=commits).
-- **[Cranberry Alarm](https://github.com/CranberryAlarm)** — "Robot in 3 Days" builds ([CA25](https://github.com/CranberryAlarm/CA25_RobotCode), [CA26](https://github.com/CranberryAlarm/CA26_RobotCode)), a full robot written in the first 72 hours after the FRC game reveal. Java. [<!--prs:CranberryAlarm-->18<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ACranberryAlarm&type=pullrequests), [<!--commits:CranberryAlarm-->150+<!--/commits--> commits](https://github.com/search?q=author%3Adracco1993+org%3ACranberryAlarm&type=commits).
+- **[Red Alert Robotics](https://github.com/RAR1741)** — Mentor since 2011. Robot code every season ([RA26](https://github.com/RAR1741/RA26_RobotCode) and back to [RA18](https://github.com/RAR1741/RA18_RobotCode)), plus [Team Hub](https://github.com/RAR1741/hub), the team-operations app that runs attendance, roster, and the shop floor. Java, JavaScript. [<!--prs:RAR1741-->183<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ARAR1741&type=pullrequests), <!--commits:RAR1741-->2000+<!--/commits--> commits.
+- **[The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance)** — Contributor since 2017 to the FIRST Robotics Competition data site and its [iOS app](https://github.com/the-blue-alliance/the-blue-alliance-ios). Python, Swift. [<!--prs:the-blue-alliance-->66<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3Athe-blue-alliance&type=pullrequests), <!--commits:the-blue-alliance-->91+<!--/commits--> commits.
+- **[Bot_Man](https://github.com/GreaterGamersLounge/bot_man)** — Discord bot for Greater Gamers Lounge: slash commands, reaction roles, temp voice channels. TypeScript, discord.js. [<!--prs:GreaterGamersLounge-->55<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3AGreaterGamersLounge&type=pullrequests), <!--commits:GreaterGamersLounge-->400+<!--/commits--> commits.
+- **[Cranberry Alarm](https://github.com/CranberryAlarm)** — "Robot in 3 Days" builds ([CA25](https://github.com/CranberryAlarm/CA25_RobotCode), [CA26](https://github.com/CranberryAlarm/CA26_RobotCode)), a full robot written in the first 72 hours after the FRC game reveal. Java. [<!--prs:CranberryAlarm-->18<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ACranberryAlarm&type=pullrequests), <!--commits:CranberryAlarm-->150+<!--/commits--> commits.
 - **[FRCStats](https://github.com/dracco1993/FRCStats)** / **[FTCStats](https://github.com/dracco1993/FTCStats)** — Match lists for every district at champs. JavaScript. Live at [frc.jmiller.dev](https://frc.jmiller.dev).
 
 ## Recently merged
@@ -37,10 +37,10 @@ Latest merged PR in each org repo I contribute to. Updated nightly.
 [![react](https://skillicons.dev/icons?i=react)](https://reactjs.org/)&nbsp;&nbsp;[![d3](https://skillicons.dev/icons?i=d3)](https://d3js.org/)
 
 **Backend & data**  
-[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)&nbsp;&nbsp;[![rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org)&nbsp;&nbsp;[![postgresql](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)&nbsp;&nbsp;[![elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co)&nbsp;&nbsp;[![firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)&nbsp;&nbsp;[![rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org)&nbsp;&nbsp;[![postgresql](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
 
 **Infra & tools**  
-[![aws](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)&nbsp;&nbsp;[![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)&nbsp;&nbsp;[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)&nbsp;&nbsp;[![opencv](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
+[![aws](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)&nbsp;&nbsp;[![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)&nbsp;&nbsp;[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
 ## Activity
 
@@ -56,7 +56,3 @@ Latest merged PR in each org repo I contribute to. Updated nightly.
     <img src="https://streak-stats.demolab.com?user=dracco1993&hide_border=true" alt="Contribution streak" />
   </picture>
 </p>
-
-## Other places you can find me
-
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dracco1993)&nbsp;&nbsp;[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jordan-miller-4a70b0148)&nbsp;&nbsp;[![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/884296/dracco1993)
