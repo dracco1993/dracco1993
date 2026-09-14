@@ -30,17 +30,12 @@ Latest merged PR in each org repo I contribute to. Updated nightly.
 
 ## Languages and tools
 
-**Languages**  
-[![java](https://skillicons.dev/icons?i=java)](https://www.java.com)&nbsp;&nbsp;[![python](https://skillicons.dev/icons?i=py)](https://www.python.org)&nbsp;&nbsp;[![typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)&nbsp;&nbsp;[![javascript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;[![ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/en/)
-
-**Frontend**  
-[![react](https://skillicons.dev/icons?i=react)](https://reactjs.org/)&nbsp;&nbsp;[![d3](https://skillicons.dev/icons?i=d3)](https://d3js.org/)
-
-**Backend & data**  
-[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)&nbsp;&nbsp;[![rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org)&nbsp;&nbsp;[![postgresql](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
-
-**Infra & tools**  
-[![aws](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)&nbsp;&nbsp;[![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)&nbsp;&nbsp;[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+|  |  |
+|---|---|
+| **Languages** | ![Languages](https://skillicons.dev/icons?i=java,py,ts,js,ruby) |
+| **Frontend** | ![Frontend tools](https://skillicons.dev/icons?i=react,d3) |
+| **Backend & data** | ![Backend and data tools](https://skillicons.dev/icons?i=nodejs,rails,postgres) |
+| **Infra & tools** | ![Infra and tools](https://skillicons.dev/icons?i=aws,docker,git) |
 
 ## Activity
 
