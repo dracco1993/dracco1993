@@ -30,12 +30,9 @@ Latest merged PR in each org repo I contribute to. Updated nightly.
 
 ## Languages and tools
 
-|  |  |
-|---|---|
-| **Languages** | ![Languages](https://skillicons.dev/icons?i=java,py,ts,js,ruby) |
-| **Frontend** | ![Frontend tools](https://skillicons.dev/icons?i=react,d3) |
-| **Backend & data** | ![Backend and data tools](https://skillicons.dev/icons?i=nodejs,rails,postgres) |
-| **Infra & tools** | ![Infra and tools](https://skillicons.dev/icons?i=aws,docker,git) |
+| Languages | Frontend | Backend & data | Infra & tools |
+|:---:|:---:|:---:|:---:|
+| ![Languages](https://skillicons.dev/icons?i=java,py,ts,js,ruby) | ![Frontend tools](https://skillicons.dev/icons?i=react,d3) | ![Backend and data tools](https://skillicons.dev/icons?i=nodejs,rails,postgres) | ![Infra and tools](https://skillicons.dev/icons?i=aws,docker,git) |
 
 ## Activity
 
