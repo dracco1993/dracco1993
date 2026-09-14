@@ -3,15 +3,15 @@
 
 ☀️ By day, I'm a Lead Developer at [Merative](https://github.com/merative)
 
-🌙 By night, I mentor the software team at [Red Alert Robotics](https://github.com/RAR1741) (FRC 1741). Since 2011 I've helped high schoolers ship a new Java robot every season, and built the tooling around the team along the way.
+🌙 By night, I'm a mentor and drive coach at [Red Alert Robotics](https://github.com/RAR1741) (FRC 1741)
 
-## What I work on
+## My work
 
-- **[Red Alert Robotics](https://github.com/RAR1741)** — Mentor since 2011. Robot code every season ([RA26](https://github.com/RAR1741/RA26_RobotCode) and back to [RA18](https://github.com/RAR1741/RA18_RobotCode)), plus [Team Hub](https://github.com/RAR1741/hub), the team-operations app that runs attendance, roster, and the shop floor. Java, JavaScript. [<!--prs:RAR1741-->183<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ARAR1741&type=pullrequests), <!--commits:RAR1741-->2000+<!--/commits--> commits.
-- **[The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance)** — Contributor since 2017 to the FIRST Robotics Competition data site and its [iOS app](https://github.com/the-blue-alliance/the-blue-alliance-ios). Python, Swift. [<!--prs:the-blue-alliance-->66<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3Athe-blue-alliance&type=pullrequests), <!--commits:the-blue-alliance-->91+<!--/commits--> commits.
+- **[Red Alert Robotics (RAR)](https://github.com/RAR1741)** — Mentor since 2011. Robot code every season ([RA26](https://github.com/RAR1741/RA26_RobotCode) and back to [RA18](https://github.com/RAR1741/RA18_RobotCode)), plus [Team Hub](https://github.com/RAR1741/hub), the team-operations app that runs attendance, roster, and the shop floor. Java, JavaScript. [<!--prs:RAR1741-->183<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ARAR1741&type=pullrequests), <!--commits:RAR1741-->2000+<!--/commits--> commits.
+- **[The Blue Alliance (TBA)](https://github.com/the-blue-alliance/the-blue-alliance)** — Contributor since 2017 to the largest FRC data site, the [iOS app](https://github.com/the-blue-alliance/the-blue-alliance-ios), and the [Android App](https://github.com/the-blue-alliance/the-blue-alliance-android). Python, Swift, Java. [<!--prs:the-blue-alliance-->66<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3Athe-blue-alliance&type=pullrequests), <!--commits:the-blue-alliance-->91+<!--/commits--> commits.
+- **[Cranberry Alarm (CA)](https://github.com/CranberryAlarm)** — "Robot in 3 Days" (latest: [CA26](https://github.com/CranberryAlarm/CA26_RobotCode)), a full robot built in the first 72 hours after the FRC game reveal. Java. [<!--prs:CranberryAlarm-->18<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ACranberryAlarm&type=pullrequests), <!--commits:CranberryAlarm-->150+<!--/commits--> commits.
 - **[Bot_Man](https://github.com/GreaterGamersLounge/bot_man)** — Discord bot for Greater Gamers Lounge: slash commands, reaction roles, temp voice channels. TypeScript, discord.js. [<!--prs:GreaterGamersLounge-->55<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3AGreaterGamersLounge&type=pullrequests), <!--commits:GreaterGamersLounge-->400+<!--/commits--> commits.
-- **[Cranberry Alarm](https://github.com/CranberryAlarm)** — "Robot in 3 Days" builds ([CA25](https://github.com/CranberryAlarm/CA25_RobotCode), [CA26](https://github.com/CranberryAlarm/CA26_RobotCode)), a full robot written in the first 72 hours after the FRC game reveal. Java. [<!--prs:CranberryAlarm-->18<!--/prs--> merged PRs](https://github.com/search?q=is%3Apr+author%3Adracco1993+is%3Amerged+org%3ACranberryAlarm&type=pullrequests), <!--commits:CranberryAlarm-->150+<!--/commits--> commits.
-- **[FRCStats](https://github.com/dracco1993/FRCStats)** / **[FTCStats](https://github.com/dracco1993/FTCStats)** — Match lists for every district at champs. JavaScript. Live at [frc.jmiller.dev](https://frc.jmiller.dev).
+- **[FRCStats](https://github.com/dracco1993/FRCStats)** / **[FTCStats](https://github.com/dracco1993/FTCStats)** — Match lists for every district at champs. JavaScript. 2019-2026. Finally [added to TBA in 2026](https://github.com/the-blue-alliance/the-blue-alliance/pull/9792).
 
 ## Recently merged
 
@@ -28,13 +28,12 @@ Latest merged PR in each org repo I contribute to. Updated nightly.
 - [CranberryAlarm/CA26_RobotCode](https://github.com/CranberryAlarm/CA26_RobotCode/pull/24) — Better tuning (2026-01-28)
 <!-- recent_prs end -->
 
-## Languages and tools
+<hr/>
 
 | Languages | Frontend | Backend & data | Infra & tools |
 |:---:|:---:|:---:|:---:|
 | ![Languages](https://skillicons.dev/icons?i=java,py,ts,js,ruby) | ![Frontend tools](https://skillicons.dev/icons?i=react,d3) | ![Backend and data tools](https://skillicons.dev/icons?i=nodejs,rails,postgres) | ![Infra and tools](https://skillicons.dev/icons?i=aws,docker,git) |
 
-## Activity
 
 <p align="center">
   <picture>
