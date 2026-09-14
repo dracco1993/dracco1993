@@ -29,6 +29,7 @@ Latest merged PR in each org repo I contribute to. Updated nightly.
 - [CranberryAlarm/CA26_RobotCode](https://github.com/CranberryAlarm/CA26_RobotCode/pull/24) — Better tuning (2026-01-28)
 <!-- recent_prs end -->
 
+<!--
 <hr/>
 
 | Languages | Frontend | Backend & data | Infra & tools |
@@ -47,4 +48,4 @@ Latest merged PR in each org repo I contribute to. Updated nightly.
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dracco1993&theme=github-dark-blue&hide_border=true">
     <img src="https://streak-stats.demolab.com?user=dracco1993&hide_border=true" alt="Contribution streak" />
   </picture>
-</p>
+</p> -->
